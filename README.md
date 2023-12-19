@@ -19,3 +19,6 @@ The bakery landing page offers the following features:
 * Call-to-Action (CTA): Strategically placed CTAs prompt visitors to take specific actions, such as placing an online order, making a reservation, or subscribing to the bakery's newsletter. Clear and compelling CTAs entice visitors to engage further with the bakery.
 
 * Contact and Location Information: The landing page provides contact details and a map indicating the bakery's location. This makes it convenient for visitors to get in touch, find directions, or visit the physical store.
+  
+## License
+This project is licensed under the MIT License. Feel free to modify and adapt it to your needs.

@@ -1,4 +1,4 @@
-
+# Landing Page
 
 
 This repository contains the landing page for a bakery website. The landing page serves as the initial point of contact for visitors and aims to attract their attention, provide essential information about the bakery, and encourage them to explore further or take desired actions.
